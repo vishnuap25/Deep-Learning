@@ -46,7 +46,7 @@ six==1.10.0
 tensorflow==1.1.0
 terminado==0.6
 testpath==0.3
-thefuck==3.18
+thefuck==3.31
 tornado==4.5.1
 tqdm==4.11.2
 traitlets==4.3.2
